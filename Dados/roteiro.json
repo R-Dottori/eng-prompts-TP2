@@ -1,0 +1,44 @@
+{
+    "roteiro": [
+        {
+            "cidade": "Atenas",
+            "pontos_turisticos": [
+                {
+                    "nome": "Acropolis",
+                    "descricao": "Um dos monumentos mais famosos do mundo, com vistas panorâmicas de Atenas.",
+                    "visitantes_anuais": "7 milhões de visitantes"
+                },
+                {
+                    "nome": "Partenon",
+                    "descricao": "Um templo antigo dedicado à deusa Atena, a deusa protetora da cidade.",
+                    "visitantes_anuais": "6 milhões de visitantes"
+                },
+                {
+                    "nome": "Museu da Acrópole",
+                    "descricao": "Um museu com uma coleção de artefatos da Acrópole.",
+                    "visitantes_anuais": "1.5 milhões de visitantes"
+                }
+            ]
+        },
+        {
+            "cidade": "Roma",
+            "pontos_turisticos": [
+                {
+                    "nome": "Coliseu",
+                    "descricao": "Um anfiteatro romano antigo, um dos monumentos mais icônicos de Roma.",
+                    "visitantes_anuais": "7.5 milhões de visitantes"
+                },
+                {
+                    "nome": "Fórum Romano",
+                    "descricao": "O centro da vida política e social da Roma antiga.",
+                    "visitantes_anuais": "4 milhões de visitantes"
+                },
+                {
+                    "nome": "Museus Vaticanos",
+                    "descricao": "Um complexo de museus e galerias de arte, incluindo a Capela Sistina.",
+                    "visitantes_anuais": "6 milhões de visitantes"
+                }
+            ]
+        }
+    ]
+}

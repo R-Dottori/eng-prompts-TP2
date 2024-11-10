@@ -1,0 +1,8 @@
+beautifulsoup4
+google-generativeai
+jupyter
+matplotlib
+pandas
+python-dotenv
+seaborn
+tiktoken
